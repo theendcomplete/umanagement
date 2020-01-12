@@ -74,7 +74,6 @@
     <orderEntry type="library" scope="PROVIDED" name="rspec-rails (v3.9.0, Remote: ruby-2.6.5-p114 (2)) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rspec-support (v3.9.2, Remote: ruby-2.6.5-p114 (2)) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubocop (v0.79.0, Remote: ruby-2.6.5-p114 (2)) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rubocop-gitlab-security (v0.1.1, Remote: ruby-2.6.5-p114 (2)) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubocop-performance (v1.5.2, Remote: ruby-2.6.5-p114 (2)) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubocop-rails (v2.4.1, Remote: ruby-2.6.5-p114 (2)) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubocop-rspec (v1.37.1, Remote: ruby-2.6.5-p114 (2)) [gem]" level="application" />
