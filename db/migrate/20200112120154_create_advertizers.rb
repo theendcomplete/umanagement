@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-class CreateAdvertisers < ActiveRecord::Migration[6.0]
+class CreateAdvertizers < ActiveRecord::Migration[6.0]
   def up
     execute <<-DDL
           CREATE TYPE advertizer_positions AS ENUM (
