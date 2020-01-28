@@ -1,0 +1,65 @@
+{
+	"info": {
+		"_postman_id": "1a879564-434d-4306-bada-c10059871097",
+		"name": "junior+ test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "users",
+			"item": [
+				{
+					"name": "index",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{URL}}/api/v1/users",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"api",
+								"v1",
+								"users"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "4197740c-755d-4c33-8310-d019667b6efb",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "49268ac2-e109-4f99-b6cd-e4e9fef6b731",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"id": "e1c8a10c-a5ea-4511-967c-232fe86e0dd0",
+			"key": "URL",
+			"value": "http://127.0.0.1:3000",
+			"type": "string"
+		}
+	],
+	"protocolProfileBehavior": {}
+}
